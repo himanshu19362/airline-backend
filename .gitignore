@@ -1,0 +1,5 @@
+/API_Gateway/node_modules
+/AuthService/node_modules
+/BookingService/node_modules
+/FlightAndSearch/node_modules
+/ReminderService/node_modules
